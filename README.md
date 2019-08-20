@@ -1,4 +1,7 @@
 #YugaKlink
+ 
+Aplicação Exemplo para o Meetup https://www.meetup.com/pt-BR/SouJavaCampinas/events/263802442/
+
 ##SpringBoot + Yugabyte's Relational and NoSQL Exemple Application
 
 Exemplo de Aplicação utilizando SpringBoot + Kotlin acessando tanto o Yugabyte Relacional como o Não Relactional (Cassandra).
@@ -54,9 +57,6 @@ CREATE TABLE yugaklink.appuser (
 ```
 mvn spring-boot:run
 ```
-
-Exemplo para o Meetup: https://www.meetup.com/pt-BR/SouJavaCampinas/events/263802442/
-
 
 Slides: https://s3.wasabisys.com/klinkpublic/palestra_yugabyte_yugaklink.pdf
 
